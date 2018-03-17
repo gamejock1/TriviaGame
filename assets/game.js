@@ -18,15 +18,15 @@ $(document).ready(function () {
     }
     ,
     question3 = {
-      question: "What is the coolest car ever?",
+      question: "Which is the best selling car?",
       choices: ["Firebird", "Camaro", "Chevelle", "Corvette"],
-      answer: "Chevelle",
+      answer: "Camaro",
     }
     ,
     question4 = {
-      question: "What is the coolest car ever?",
+      question: "Which of these does't match the others?",
       choices: ["Firebird", "Camaro", "Chevelle", "Corvette"],
-      answer: "Chevelle",
+      answer: "Firebird",
     }
   ]
 
